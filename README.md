@@ -16,4 +16,11 @@ Facebook fan page
 http://www.facebook.com/KokaratScripts/ 
 
 Add me to Facebook Friend
+http://www.facebook.com/kokarat.me
+
+Twitter
+@ikoakrat
+
+Website 
+http://www.kokarat.me
 
