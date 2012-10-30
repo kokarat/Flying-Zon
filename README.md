@@ -1,7 +1,7 @@
 Flying-Zon
 ==========
 
-Amazon affiliate script auto fly by Keyword
+Amazon affiliate script auto fly by Keywords
 
 - Responsive design support any devices eg. iphone,ipad, android etc.
 - Light and fast
