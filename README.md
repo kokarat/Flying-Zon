@@ -10,8 +10,8 @@ Amazon affiliate script auto fly by Keywords
 - Pull products by keywords
 
 
-Follow me
----------
+Follow me.
+----------
 Facebook fan page
 http://www.facebook.com/KokaratScripts/ 
 
