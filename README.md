@@ -4,15 +4,15 @@ Flying-Zon
 Amazon affiliate script auto fly by Keywords
 
 - Responsive design support any devices eg. iphone,ipad, android etc.
-- Light and fast
+- Light and fast.
 - No database needed.
-- No API 
-- Pull products by keywords
+- No API. 
+- Pull products by keywords.
 
 
 How to use.
 -----------
-1. Download FlyingZon. 
+1. Download FlyingZon. >> https://github.com/kokarat/Flying-Zon/downloads
 2. Open index.php wiht text editor then edit. 
 
 /***** Config *******/
