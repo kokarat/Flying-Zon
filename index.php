@@ -4,9 +4,9 @@ $keyword = "Canon+EOS";
 $site_title = "Cheap price $keyword";
 $siteName = "Deals Store";
 $trakingID = "kokarat.me-20";
-require 'simple_html_dom.php';
 /*** END Config ***/
 
+require 'simple_html_dom.php';
 $tmpPage = trim($_GET[page]);
 $tmpUrl = 'http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='.$keyword ;
 if($tmpPage <> ""){

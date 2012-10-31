@@ -10,6 +10,21 @@ Amazon affiliate script auto fly by Keywords
 - Pull products by keywords
 
 
+How to use.
+-----------
+1. Open index.php wiht text editor then edit 
+
+/***** Config *******/
+$keyword = "Canon+EOS"; --> Enter your keywords.
+$site_title = "Cheap price $keyword"; --> Enter your site title.
+$siteName = "Deals Store"; --> Enter your site name.
+$trakingID = "xxxxxxxx-20"; -- > Change to your amazon affiliate ID
+/*** END Config ***/
+
+2. FTP to your hosting
+3. Enjoy :) 
+
+
 Follow me.
 ----------
 Facebook fan page
