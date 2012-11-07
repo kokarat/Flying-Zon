@@ -9,6 +9,9 @@ Amazon affiliate script auto fly by Keywords
 - No API. 
 - Pull products by keywords.
 
+Demo.
+-----
+http://www.kokarat.me/flyingzon/
 
 How to use.
 -----------
